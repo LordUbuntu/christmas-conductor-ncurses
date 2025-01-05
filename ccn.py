@@ -4,10 +4,5 @@
 # - ncurses window based graphics for better visuals
 # - keyboard letter based "switches" that redirect power
 # - procedurally generated levels
-import termcolor
-
-def placeholder():
-    print(termcolor.colored("POWER OUTAGE", "yellow", "on_red", attrs=["bold", "blink", "underline"]))
-
-if __name__ == "__main__":
-    placeholder()
+# - sound effects and music if possible
+import ncurses
