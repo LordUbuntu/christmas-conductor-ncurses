@@ -4,5 +4,5 @@
 # - ncurses window based graphics for better visuals
 # - keyboard letter based "switches" that redirect power
 # - procedurally generated levels
-# - sound effects and music if possible
+# - sound effects and music if possible (https://medium.com/@stevehiehn/how-to-generate-music-with-python-the-basics-62e8ea9b99a5)
 import ncurses
